@@ -1,2 +1,2 @@
 # my first ruby code
-puts "Hello World"
+puts "Hello World Java"
